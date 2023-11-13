@@ -1,0 +1,75 @@
+[
+  
+    {
+      "id": "1",
+     
+      "salary": 800,
+      "picture": "teacher2.jpg",
+      "age": 26,
+      "position": "Professor",
+      "name": "Barrett Mcfarland",
+      "gender": " female",
+      "Department": "CSE",
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "2",
+   
+      "salary": 750,
+      "picture": "teacher3.jpg",
+      "age": 26,
+      "position": "Professor",
+      "name": "Maria Sumaia",
+      "gender": " female",
+      "Department": "CSE",
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "3",
+   
+      "salary": 600,
+      "picture": "teacher4.jpg",
+      "age": 26,
+      "position": "Professor",
+      "name": "Sulaiman Hussain",
+      "gender": " male",
+      "Department": "CSE",
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "4",
+   
+      "salary": 200,
+      "picture": "teacher5.jpg",
+      "age": 26,
+      "position": "Professor",
+      "name": "Barrett Mcfarland",
+      "gender": " male",
+      "Department": "CSE",
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "5",
+  
+      "salary": 200,
+      "picture": "teacher6.jpg",
+      "age": 30,
+      "position": "Professor",
+      "name": "Barrett Mcfarland",
+      "gender": " female",
+      "Department": "CSE",
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "6",
+  
+      "salary": 200,
+      "picture": "teacher7.jpg",
+      "age": 28,
+      "position": "Professor",
+      "name": "Barrett Mcfarland",
+      "gender": " male",
+      "Department": "CSE",
+      "email": "avabennett@surelogic.com"
+    }
+  ]
